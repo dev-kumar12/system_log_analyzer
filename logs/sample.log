@@ -1,0 +1,5 @@
+Jul 13 13:00:21 server1 kernel: Out of memory: Kill process 1234 (python) score 1000
+Jul 13 13:01:12 server1 sshd[4567]: Connection refused
+Jul 13 13:02:33 server1 CRON[5678]: CPU usage over threshold
+Jul 13 13:03:44 server1 sshd[8901]: Connection timeout
+Jul 13 13:04:55 server1 kernel: Disk read error
